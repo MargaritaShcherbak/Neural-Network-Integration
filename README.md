@@ -27,3 +27,4 @@
    pip install tensorflow numpy matplotlib scikit-learn scipy mpmath
 
 Файл с кодом "Neural_Integration_Method.ipynb" лежит в репозитории.
+2. Откройте файл [Neural_Integration_Method.ipynb](./Neural_Integration_Method.ipynb) в Jupyter Notebook или Google Colab.
