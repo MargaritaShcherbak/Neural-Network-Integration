@@ -22,17 +22,14 @@
 
 
 ## Как запустить
-1. Установите необходимые библиотеки:
-   ```bash
-   pip install tensorflow numpy matplotlib scikit-learn scipy mpmath
-   
-2. Откройте файл [Neural_Integration_Method.ipynb](./Neural_Integration_Method.ipynb) в Jupyter Notebook или Google Colab.
-Вы можете запустить код прямо в браузере, не скачивая файлы, или открыть его локально.
 
-**Запустить в Google Colab:**
+Вы можете запустить код прямо в браузере (не скачивая файлы) или развернуть его локально.
+
+### 🌐 Запустить онлайн (Google Colab)
+Нажмите на кнопку ниже, чтобы открыть блокнот в облачной среде:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MargaritaShcherbak/Neural-Network-Integration/blob/main/Neural_Integration_Method.ipynb)
 
-**Локальный запуск:**
+### 💻 Запустить локально
 1. Установите необходимые библиотеки:
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn scipy mpmath
