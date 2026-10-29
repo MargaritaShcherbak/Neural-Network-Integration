@@ -25,3 +25,5 @@
 1. Установите необходимые библиотеки:
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn scipy mpmath
+
+Файл с кодом "Neural_Integration_Method.ipynb" лежит в репозитории.
