@@ -25,6 +25,14 @@
 1. Установите необходимые библиотеки:
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn scipy mpmath
-
-Файл с кодом "Neural_Integration_Method.ipynb" лежит в репозитории.
+   
 2. Откройте файл [Neural_Integration_Method.ipynb](./Neural_Integration_Method.ipynb) в Jupyter Notebook или Google Colab.
+Вы можете запустить код прямо в браузере, не скачивая файлы, или открыть его локально.
+
+**Запустить в Google Colab:**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MargaritaShcherbak/Neural-Network-Integration/blob/main/Neural_Integration_Method.ipynb)
+
+**Локальный запуск:**
+1. Установите необходимые библиотеки:
+   ```bash
+   pip install tensorflow numpy matplotlib scikit-learn scipy mpmath
